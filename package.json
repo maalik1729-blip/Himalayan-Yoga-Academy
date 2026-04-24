@@ -1,7 +1,7 @@
 {
   "name": "himalayan-yoga-academy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Himalayan Yoga Academy offers professional Yoga Teacher Training and spiritual retreats in the Himalayas.",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -9,8 +9,14 @@
     "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "yoga teacher training",
+    "himalayan yoga academy",
+    "yoga retreats",
+    "nepal yoga",
+    "meditation training"
+  ],
+  "author": "Himalayan Yoga Academy",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
